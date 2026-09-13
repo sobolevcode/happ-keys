@@ -32,7 +32,7 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?type=tcp
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:443?encryption=none&fp=firefox&path=/&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&security=reality&sni=download.nvidia.com&type=xhttp#🇬🇧 32. t.me/cheburnetonline
 vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&amp;security=none&amp;type=tcp#⚡ 33. t.me/cheburnetonline
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@150.241.72.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=austria-2.moritech.net&type=tcp#🇸🇪 34. t.me/cheburnetonline
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@196.240.109.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_MNu7iYAsOWPHNojVZIpfmjuUgsUIHYlmJ1UWjCgI3U&sid=4a45359303431969&sni=arturito.nxxzxaw.beer#🇵🇱 35. t.me/cheburnetonline
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@2.2.2.2:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_MNu7iYAsOWPHNojVZIpfmjuUgsUIHYlmJ1UWjCgI3U&sid=4a45359303431969&sni=arturito.nxxzxaw.beer#🇵🇱 35. t.me/cheburnetonline
 vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa9.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=qq#🇳🇱 36. t.me/cheburnetonline
 vless://568addfa-796a-40f8-820d-a071ee2ca50a@2.27.244.94:443?fp=qq&mode=auto&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#⚡ 37. t.me/cheburnetonline
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#🇬🇧 38. t.me/cheburnetonline
